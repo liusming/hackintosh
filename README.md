@@ -8,7 +8,7 @@ Hardware list:
 5. HDD：SEGATE Barracuda 8T（Plus 512G SSD merged as one FUSION DRIV）
 6. CASE：Normal
 7. Power：750W
-8. Wireless Lan：  TP Link Archer T9E 802.11AC AC1900(免驅動）
-9. Bluetooth： Abio CSR BT4.0(免驅）
+8. Wireless Lan：  TP Link Archer T9E 802.11AC AC1900
+9. Bluetooth： Abio CSR BT4.0
 
 EFI attached.
