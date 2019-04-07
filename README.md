@@ -11,4 +11,8 @@ Hardware list:
 8. Wireless Lan：  TP Link Archer T9E 802.11AC AC1900
 9. Bluetooth： Abio CSR BT4.0
 
-EFI attached.
+EFI as attached:
+EFI-onUSB is the EFI files for USB drive for boot
+EFI-onPC is the tuned EFI files on PC
+
+Make boot USB drive with Mojave and setting relative BIOS should be boot up and install MAc OS, Replace the EFI-onPC should be boot up the PC under the above Hardware list. 
