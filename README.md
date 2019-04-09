@@ -3,7 +3,7 @@ Hardware list:
 
 1. CPU : INTEL i9 - 9900K
 2. M/B：Gigabytes Z390 AUROS ELITE
-3. Graphic： Intel (Z380) HD 650 2G 
+3. Graphic： Intel (Z380) HD 630 2G 
 4. Memory： Crucial DDR4 16GB X 2
 5. HDD：SEGATE Barracuda 8T（Plus 512G SSD merged as one FUSION DRIV）
 6. CASE：Normal
