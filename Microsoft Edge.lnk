@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>LinkProxyList</key>
+	<dict>
+		<key>Items</key>
+		<array>
+			<dict>
+				<key>Proxy</key>
+				<dict>
+					<key>Alias</key>
+					<dict>
+						<key>/* AliasPath */</key>
+						<string>/Applications/Parallels Desktop.app</string>
+						<key>AliasData</key>
+						<data>
+						AAAAAAFCAAIAAQZNYWMgT1MAAAAA
+						AAAAAAAAAAAAAAAAAAAAAAAAAAAA
+						QkQAAf////8VUGFyYWxsZWxzIERl
+						c2t0b3AuYXBwAAAAAAAAAAAAAAAA
+						AAAAAAAAAAAAAAAAAAAAAAAAAAAA
+						AAAAAAAAAAAA/////wAAAAAAAAAA
+						AAAAAP////8AAAogY3UAAAAAAAAA
+						AAAAAAAADEFwcGxpY2F0aW9ucwAC
+						ACUvOkFwcGxpY2F0aW9uczpQYXJh
+						bGxlbHMgRGVza3RvcC5hcHAvAAAO
+						ACwAFQBQAGEAcgBhAGwAbABlAGwA
+						cwAgAEQAZQBzAGsAdABvAHAALgBh
+						AHAAcAAPAA4ABgBNAGEAYwAgAE8A
+						UwASACJBcHBsaWNhdGlvbnMvUGFy
+						YWxsZWxzIERlc2t0b3AuYXBwABMA
+						AS8A//8AAA==
+						</data>
+					</dict>
+				</dict>
+				<key>ProxyKind</key>
+				<string>Alias</string>
+			</dict>
+		</array>
+	</dict>
+	<key>LinkTarget</key>
+	<dict>
+		<key>TargetObject</key>
+		<dict>
+			<key>CommandAction</key>
+			<dict>
+				<key>CommandLine</key>
+				<string></string>
+			</dict>
+			<key>CommandActionKind</key>
+			<string>CommandLine</string>
+			<key>CommandOptions</key>
+			<dict>
+				<key>ShowCommand</key>
+				<string>Normal</string>
+			</dict>
+		</dict>
+		<key>TargetObjectKind</key>
+		<string>Command</string>
+		<key>TargetSource</key>
+		<dict>
+			<key>VmName</key>
+			<string>Windows 10</string>
+			<key>VmPath</key>
+			<string>/Users/samuel/Parallels/Windows 10.pvm/config.pvs</string>
+			<key>VmUuid</key>
+			<string>{b0bc1d34-b2a1-4438-9bac-49047e8bd9eb}</string>
+		</dict>
+		<key>TargetSourceKind</key>
+		<string>PrlVm</string>
+	</dict>
+</dict>
+</plist>
